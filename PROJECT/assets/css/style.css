@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Roboto&display=swap');
+
+header{
+    margin: 0;
+}
+
+.logo {
+    background: url("../images/culture.gif");
+    background-position: center;
+    background-size: cover;
+}
