@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Roboto&display=swap');
-
 /*----------------------------------COLOUR */
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: blue;
+    font-family:cursive;
+    font-weight: 100;
+    font-size: 36px;
+    margin-top: 50px;
+    color: #f1f0ea;
 }
 
 /*----------------------------------heading */
@@ -26,4 +29,11 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
+}
+.name {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #f1f0ea;
 }
