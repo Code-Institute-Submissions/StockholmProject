@@ -1,7 +1,21 @@
 /*----------------------------------COLOUR */
 
+.ui-menu-color-home {
+    background-color: rgba(123, 139, 182, 0.667);
+    text-align: center;
+}
+
+.ui-menu-color-aboutus {
+    background-color: rgba(123, 139, 182, 0.667);
+    text-align: center;
+}
+
+.ui-menu-color-events {
+    background-color: rgba(123, 139, 182, 0.667);
+    text-align: center;
+}
 .bg-color-name-title {
-    background-color: blue;
+    background-color: rgba(16, 51, 150, 0.667);
     font-family:cursive;
     font-weight: 100;
     font-size: 36px;
@@ -36,4 +50,16 @@ header{
     font-size: 46px;
     margin-top: 50px;
     color: #f1f0ea;
+}
+.list-inline-item:not(:last-child) {
+margin: 0;
+}
+
+.menucontainer {
+font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
 }
