@@ -16,10 +16,11 @@
 }
 .bg-color-name-title {
     background-color: rgba(16, 51, 150, 0.667);
+    margin-right: 25%;
     font-family:cursive;
     font-weight: 100;
     font-size: 36px;
-    margin-top: 50px;
+    margin-top: 0px;
     color: #f1f0ea;
 }
 
@@ -30,10 +31,6 @@ header{
 }
 
 .heading {
-    margin-left: 50px;
-}
-
-.heading{
     margin-left: 50px;
 }
 
@@ -62,4 +59,34 @@ font-size: 0;
 #nav li {
     font-size: 14px;
     padding: 0;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: whitesmoke;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: whitesmoke;
+    font-size: 36px;
+}
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
 }
