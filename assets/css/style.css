@@ -1,27 +1,28 @@
 /*----------------------------------COLOUR */
 
 .ui-menu-color-home {
-    background-color: rgba(123, 139, 182, 0.667);
+    background-color: #525252;
     text-align: center;
 }
 
 .ui-menu-color-aboutus {
-    background-color: rgba(123, 139, 182, 0.667);
+    background-color: #525252;
     text-align: center;
 }
 
 .ui-menu-color-events {
-    background-color: rgba(123, 139, 182, 0.667);
+    background-color: #525252;
     text-align: center;
+    margin-right: 2%;
 }
 .bg-color-name-title {
-    background-color: rgba(16, 51, 150, 0.667);
+    background-color: #525252;
     margin-right: 25%;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 100;
     font-size: 36px;
     margin-top: 0px;
-    color: #f1f0ea;
+    color: whitesmoke;
 }
 /*-----------------------------------------Special paddings, margins and text */
 
@@ -64,7 +65,7 @@ header{
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
-    color: #f1f0ea;
+    color: whitesmoke;
 }
 .list-inline-item:not(:last-child) {
 margin: 0;
@@ -113,7 +114,7 @@ font-size: 0;
 
 footer {
     background-color: #525252;
-    color: #fafafa;
+    color: whitesmoke;
     min-height: 120px;
     margin: 0;
 }
@@ -140,6 +141,9 @@ background-color: #8f8f8f;
 -o-transition: all 0.35s ease-in-out
 }
 
-social-links li a i :hover {
-background: #;
+.social-links li a i:hover {
+background-color: yellow;
+}
+#footer-details {
+    padding: 20px;
 }
