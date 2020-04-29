@@ -87,8 +87,25 @@ header{
     background-size: cover;
     min-height: 360px;
 }
+.culture {
+    background-image: url("../images/culture.gif");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 240px;
+}
+
+.updates {
+    background-image: url("../images/gallery.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 240px;
+}
+
+
 .name {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
