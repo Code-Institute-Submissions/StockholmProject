@@ -4,6 +4,11 @@
     background-color: white;
 }
 
+.bg-color-updates {
+    background-color: #b9b3b39f;
+    color: red;
+}
+
 .ui-menu-color-home {
     background-color: #525252;
     text-align: center;
@@ -87,6 +92,16 @@ header{
     background-size: cover;
     min-height: 360px;
 }
+
+.updates {
+    background-image: url("../images/gallery.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 340px;
+    size: 100px;
+}
+
 .culture {
     background-image: url("../images/culture.gif");
     background-position: left;
@@ -94,15 +109,6 @@ header{
     background-size: contain;
     min-height: 240px;
 }
-
-.updates {
-    background-image: url("../images/gallery.jpg");
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: contain;
-    min-height: 240px;
-}
-
 
 .name {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -200,4 +206,35 @@ background-color: yellow;
 
 .why-heading {
     margin-bottom: 25px;
+}
+/*----------------------------------Updates */
+
+.updates-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+.updates-item .key,
+.updates-item .value {
+    padding-right: 8px;
+    display: inline-block;
+}
+
+.updates-item .key p,
+.updates-item .value p {
+    margin: 0;
+}
+
+.updates-item .key {
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+    vertical-align: top;
+}
+.updates-item .key p {
+    font-weight: 700;
+}
+.updates-item .value  {
+    position: relative;
+    width: 60%;
 }
