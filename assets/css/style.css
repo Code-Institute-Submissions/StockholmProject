@@ -239,3 +239,29 @@ background-color: yellow;
     width: 60%;
 }
 /*----------------------------------About Us */
+.ivan-uppercase {
+    font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+.franklin-uppercase {
+    font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+
+.arnold-uppercase {
+   font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: pink; 
+}
+
+.aris-uppercase {
+    font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: green;
+}
+.col ivan-uppercase {
+    background-image: url("../images/dj.jpg");
+    background-position: left left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 160px;
+}
