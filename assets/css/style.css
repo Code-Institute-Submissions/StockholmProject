@@ -269,4 +269,36 @@ background-color: yellow;
     background-size: cover;
     min-height: 160px;
 }
+
+.row-cols-2 {
+    margin-bottom: 70px;
+}
 /*----------------------------------Contact form */
+.contact-heading {
+    font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    margin-top:25px;
+    margin-bottom:20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: rgb(136, 125, 125);
+}
+
+@media (min-width: 992px;) {
+.center-form {
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+}
+}
