@@ -97,23 +97,6 @@ header{
     min-height: 360px;
 }
 
-.updates {
-    background-image: url("../images/gallery.jpg");
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: contain;
-    min-height: 340px;
-    size: 100px;
-}
-
-.culture {
-    background-image: url("../images/culture.gif");
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: contain;
-    min-height: 240px;
-}
-
 .name {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 100;
@@ -301,4 +284,50 @@ button[type="submit"] {
     margin: 0 auto;
     max-width: 50%;
 }
+}
+/*----------------------------------Events */
+
+.container-sm {
+    background-image: url("../images/culture.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
+}
+.container-md {
+    background-image: url("../images/roof.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
+}
+.container-lg {
+    background-image: url("../images/stad.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
+}
+.container-xl {
+    background-image: url("../images/city.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
 }
