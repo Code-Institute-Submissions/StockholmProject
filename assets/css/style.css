@@ -343,3 +343,56 @@ button[type="submit"] {
 .col-vita {
     background-image: url("../images/vita.jpg");
     }
+/*----------------------------------Gallery Images */
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+  .g1 {
+    background-image: url("../images/ar3.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+  .g2 {
+    background-image: url("../images/caro.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+  .g3 {
+    background-image: url("../images/music.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+  .g4 {
+    background-image: url("../images/mouth.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
