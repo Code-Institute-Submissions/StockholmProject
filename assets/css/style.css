@@ -107,7 +107,7 @@ header{
 .list-inline-item:not(:last-child) {
 margin: 0;
 }
-
+/*----------------------------------Menu heading */
 .menucontainer {
 font-size: 0;
 }
@@ -395,4 +395,130 @@ button[type="submit"] {
     max-width: 25%;
     flex: 25%;
     padding: 0 4px;
+  }
+   .g5 {
+    background-image: url("../images/ar2.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g6 {
+    background-image: url("../images/ham.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g7 {
+    background-image: url("../images/art.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g8 {
+    background-image: url("../images/new.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g9 {
+    background-image: url("../images/vita.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g10 {
+    background-image: url("../images/dalston.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g11 {
+    background-image: url("../images/dj.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g12 {
+    background-image: url("../images/city.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g13 {
+    background-image: url("../images/stad.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g14 {
+    background-image: url("../images/gallery.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g15 {
+    background-image: url("../images/home.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+   .g16 {
+    background-image: url("../images/water.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    max-width: 25%;
+    flex: 25%;
+    padding: 0 4px;
+  }
+  .imenu { 
+    padding-top: 22px;
+    display: block;
+    color: rgba(0, 0, 0, 0.425);
+    font-size: 36px;
   }
