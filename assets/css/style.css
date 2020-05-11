@@ -1,16 +1,23 @@
-/*----------------------------------COLOUR */
+
 
 .bg-color-contact {
 color: whitesmoke;
 }
 
 .bg-color-why {
-    background-color: white;
+     background-color: #616366c2;
+    color: rgb(76, 0, 255);
 }
 
 .bg-color-updates {
-    background-color: #b9b3b39f;
-    color: red;
+    background-color: whitesmoke;
+    color: rgb(76, 0, 255);
+    background-image: url("../images/sun.jpg");
+    background-position: left:left;
+    background-repeat: no-repeat;
+    background-size: 65%;
+    min-height: 160px;
+
 }
 
 .ui-menu-color-home {
@@ -43,7 +50,8 @@ color: whitesmoke;
     margin-top: 0px;
     color: whitesmoke;
 }
-/*-----------------------------------------Special paddings, margins and text */
+
+
 
 h1,
 h2,
@@ -79,7 +87,9 @@ h4, {
     margin-bottom: 40px;
 }
 
-/*----------------------------------heading */
+
+
+
 
 header{
     margin: 0;
@@ -107,7 +117,12 @@ header{
 .list-inline-item:not(:last-child) {
 margin: 0;
 }
-/*----------------------------------Menu heading */
+
+
+
+
+
+
 .menucontainer {
 font-size: 0;
 }
@@ -146,7 +161,11 @@ font-size: 0;
     font-weight: 300;
     letter-spacing: 2px;
 }
-/*--------------------------  --------Footer */
+
+
+
+
+
 
 footer {
     background-color: #525252;
@@ -178,23 +197,13 @@ background-color: #8f8f8f;
 }
 
 .social-links li a i:hover {
-background-color: yellow;
+background-color: rgb(68, 0, 255);
 }
 #footer-details {
     padding: 20px;
 }
 
-/*----------------------------------why-icon */
 
-.why-icon {
-    font-size: 26px;
-    background-color: #8f8f8f;   
-}
-
-.why-heading {
-    margin-bottom: 25px;
-}
-/*----------------------------------Updates */
 
 .updates-item {
     margin-bottom: 20px;
@@ -225,7 +234,7 @@ background-color: yellow;
     position: relative;
     width: 60%;
 }
-/*----------------------------------About Us */
+<!----------------------------------About Us--->
 .ivan-uppercase {
     font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
@@ -256,7 +265,7 @@ background-color: yellow;
 .row-cols-2 {
     margin-bottom: 70px;
 }
-/*----------------------------------Contact form */
+<!----------------------------------Contactform --->
 .contact-heading {
     font-family: cursive:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 300;
@@ -285,7 +294,8 @@ button[type="submit"] {
     max-width: 50%;
 }
 }
-/*----------------------------------Events */
+<!----------------------------------Events--->
+
 
 .container-sm {
     background-image: url("../images/culture.gif");
@@ -331,20 +341,7 @@ button[type="submit"] {
     font-size: 150%;
     text-align: right;
 }
-/*----------------------------------Images */
-.img-thumbnail {
-    background-image: url("../images/chill.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 180px;
-    }
-
-.col-vita {
-    background-image: url("../images/vita.jpg");
-    }
-/*----------------------------------Gallery Images */
-
+<!----------------------------------Images--->
 .column img {
   margin-top: 8px;
   vertical-align: middle;
