@@ -12,8 +12,7 @@ I designed the website with a site based approach as I wanted it to be illustrat
 		- prospective doners
 		- volunteers
 		- other organisations
-		- 
-		-
+	
 
 
 FEATURES:
@@ -49,7 +48,7 @@ TESTING:
 Various testing was carried out using the developer tools in Google Chrome while in preview from Gitpod in order to check responsiveness and ensuring it is also responsive for mobile devices. Doing so required back-and-forth alterations of code in order to achieve full repsonsiveness for both site and mobile device. 
 
 
-USER TEST STORIES:
+USER TEST STORY:
 
 Home Page:
 	clicking on nav bars and social media links on footer: Social media test failed, missing links. Links now added
@@ -96,10 +95,10 @@ The website worked efficiently on all browsers above. All navigation links, requ
 
 The site was also tested on the following Devices:
 
-Google pixel 3a using Google Chrome on Android 10
-iphone 8 using Safari on IOS 13.4
+    Google pixel 3a using Google Chrome on Android 10
+    iphone xr using Safari on IOS 13.4.1
 
-Deployment
+DEPLOYMENT
 
 The website is hosted on GitHub Pages, to access the site, following next steps.
 
@@ -110,3 +109,27 @@ Navigate to my Github repository - https://aoshenye.github.io/StockholmProject/i
 3. Change  source to master branch.(Page will refresh)
 5. Scroll down to the GitHub Pages section and a green box saying "your site is published at" appears.
 6. Click link to go to published website.
+
+
+CREDITS:
+
+Content:
+
+The code for the navbar on all pages was copied from Code Institue mini project and altered with Bootstrap 4.4
+The footer was copied from code institute mini project
+The code for the layout of the images was created by w3schools. 
+The Tables on all pages on the site were created from Bootstrap 4.4 and Code Institute mini project. 
+The Contact form on the About us page was designed with help from w3schools
+The colours used on the website were chosen from Coolors.
+The wireframes were created with Paint 3D
+The hover animation on the navigation bar was created from Bootstrap 4.4
+
+
+Media:
+All images were taken from my personal photo collection
+
+Acknowledgements:
+To my girlfriend Cecille and various friends for helping me test the website.
+To my mentor Reuben Ferrante for patiently helping me through the process and providing advice and guidance.
+The inspiration for the site was taken from the mini project of Code Institute
+
