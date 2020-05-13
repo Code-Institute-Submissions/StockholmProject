@@ -1,4 +1,35 @@
 
+
+
+
+STOCKHOLM PROJECT:
+
+The website was designed for a non-profit organization just starting up. There is currently nowhere stakeholders and others looking to get involved with us can either get in touch with the organization or see when they have events and their location. Therefore I designed the website with this in mind. The need to inform and present mainly to stakeholders. and to reach new stakeholders who would want to work with us or for us or get involved with large scale projects. It was thus paramount i had ways to communicates such as showing the address, social media and having a contact form. 
+
+UX
+
+I designed the website with a site based approach as I wanted it to be illustrative to all.  The expectations is to view the site on a laptop or larger screen ie in a profeissional environment and the website was to be seen in a professional mannner and such effort was made to ensure the base form of the website is well developed for the larger screen. However, attempts were also made to ensure it is also mobile-friendly.
+
+	Target Audience:
+
+	 The website is aimed but not limited to:
+		- prospective doners
+		- volunteers
+		- other organisations
+		- 
+		-
+
+
+
+
+
+
+
+
+
+
+
+
 FEATURES:
 
 
