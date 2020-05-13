@@ -1,39 +1,43 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome aoshenye,
+FEATURES:
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+Navigation Bar: The navigation bar allows user to navigate through the site swiftly. The formatting is consistent throughout the site. Slight variation of the nav bar in the Image page in order to display images for a more enhanced effect. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Footer: The footer is displayed consistently throughtout the site on every page. It helps provide added information of the organization, particularly its social media, address and email. 
 
-`python3 -m http.server`
+CSS powered hover effects: added the pulse hover effect on the main menu icons for the navigation bar for users to easily distiguingish which page they have clicked. I also used a shadow hover on the social media links for the same effect. 
 
-A blue button should appear to click: *Make Public*,
+Image grid: Users can see an arrange of images quickly to showcase the organisations previous events and people who have been involved. 
 
-Another blue button should appear to click: *Open Browser*.
+Contact form: The form allows users to be able to contact the organization directly with a message about anything relating to the Stockholm Project. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Make Public*,
+Technologies Used: 
 
-Another blue button should appear to click: *Open Browser*.
+HTML: Provided the content and structure for the website. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+CSS: Provides the styling.
 
-## Updates Since The Instructional Video
+Bootstrap - The framework was used to create the layout for each page and the nav bar. 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Google Fonts - I used the Gill sans and Calibri fonts on each of my pages.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Font Awesome - I used the font awesome icons to style the nav bar icons and the social media links in the footer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+TESTING:
 
---------
+Various testing was carried out using the developer tools in Google Chrome while in preview from Gitpod in order to check responsiveness and ensuring it is also responsive for mobile devices. Doing so required back-and-forth alterations of code in order to achieve full repsonsiveness for both site and mobile device. 
 
-Happy coding!
+
+USER TEST STORIES:
+
+Home Page:
+	clicking on nav bar links to ensure they go to appropriate page
+	testing social media links on footer
+
+About us page: 
+	filling out the contact form to ensure it responds to users effectively when inputting data.
+	

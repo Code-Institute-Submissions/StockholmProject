@@ -250,7 +250,7 @@ background-color: #BEE3DB;
 /* About us */
 
 .col-md-1-who {
-    color: #BEE3DB;
+    color: #FFD6BA;
 }
 
 .franklin-uppercase {
@@ -301,9 +301,42 @@ button[type="submit"] {
     max-width: 50%;
 }
 }
+#myCarousel {
+    background-image: url("../images/culture.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
+}
+#myCarousel2 {
+        background-image: url("../images/roof.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: right;
+}
 
 /* Events */
 
+.eds {
+    background-color: #555B6E;
+}
+
+h4 {
+    text-align: center;
+    background-color: #555B6E;
+    border: solid;
+    color: #FFD6BA;
+    size: 50%;
+}
 
 .container-sm {
     background-image: url("../images/culture.gif");
