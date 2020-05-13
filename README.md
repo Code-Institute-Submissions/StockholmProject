@@ -1,7 +1,3 @@
-
-
-
-
 STOCKHOLM PROJECT:
 
 The website was designed for a non-profit organization just starting up. There is currently nowhere stakeholders and others looking to get involved with us can either get in touch with the organization or see when they have events and their location. Therefore I designed the website with this in mind. The need to inform and present mainly to stakeholders. and to reach new stakeholders who would want to work with us or for us or get involved with large scale projects. It was thus paramount i had ways to communicates such as showing the address, social media and having a contact form. 
@@ -18,16 +14,6 @@ I designed the website with a site based approach as I wanted it to be illustrat
 		- other organisations
 		- 
 		-
-
-
-
-
-
-
-
-
-
-
 
 
 FEATURES:
@@ -66,9 +52,61 @@ Various testing was carried out using the developer tools in Google Chrome while
 USER TEST STORIES:
 
 Home Page:
-	clicking on nav bar links to ensure they go to appropriate page
-	testing social media links on footer
+	clicking on nav bars and social media links on footer: Social media test failed, missing links. Links now added
+	Do links and social media pages open?
+	Are fixtures and page images displayed correctly?
+
+All tests performed and no errors found.
 
 About us page: 
-	filling out the contact form to ensure it responds to users effectively when inputting data.
+	clicking on nav bars and social media links on footer: Social media test failed, missing links. Links now added
+	Do all links display correclty
+	Does all fixtures and images display correctly
+	Does contact form allow input of meta data?
+
+All tests performed and no errors found.
+
+Events:
+	clicking on nav bars and social media links on footer: Social media test failed, missing links. Links now added
+	Do all links display correclty
+	Are events images displaying correctly
+
+All tests performed and no errors found.
+
+Images:
+	clicking on nav bars and social media links on footer: Social media test failed, missing links. Links now added
+	Do all links display correclty
+	Do all images present correctly?
+
+All tests performed and no errors found.
 	
+
+
+
+The website was tested on the following browsers using a Microsoft Surface on Windows 10.
+
+Google Chrome - Version 81.0.4044.122 (Official Build) (64-bit)
+
+Microsoft Edge - 44.18362.449.0
+
+Firefox - 75.0 (64 bit)
+
+The website worked efficiently on all browsers above. All navigation links, required elements Social links worked. The contact form had no issues. The hovering animations still worked on all browsers. 
+	
+
+The site was also tested on the following Devices:
+
+Google pixel 3a using Google Chrome on Android 10
+iphone 8 using Safari on IOS 13.4
+
+Deployment
+
+The website is hosted on GitHub Pages, to access the site, following next steps.
+
+Navigate to my Github repository - https://aoshenye.github.io/StockholmProject/index.html
+
+1. Click on the settings tab at the top of the page.
+2. Scroll to the GitHub Pages section.
+3. Change  source to master branch.(Page will refresh)
+5. Scroll down to the GitHub Pages section and a green box saying "your site is published at" appears.
+6. Click link to go to published website.
