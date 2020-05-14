@@ -114,22 +114,30 @@ Navigate to my Github repository - https://aoshenye.github.io/StockholmProject/i
 CREDITS:
 
 Content:
+- The code for the navbar on all pages was inspired by Code Institue and altered with Bootstrap 4.4:  https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/f99dac3afcfe4b2caf8d576273aea3e6/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40f99dac3afcfe4b2caf8d576273aea3e6.   https://getbootstrap.com/docs/4.0/layout/grid/#equal-width-multi-row
 
-The code for the navbar on all pages was copied from Code Institue mini project and altered with Bootstrap 4.4
-The footer was copied from code institute mini project
-The code for the layout of the images was created by w3schools. 
-The Tables on all pages on the site were created from Bootstrap 4.4 and Code Institute mini project. 
-The Contact form on the About us page was designed with help from w3schools
-The colours used on the website were chosen from Coolors.
-The wireframes were created with Paint 3D
-The hover animation on the navigation bar was created from Bootstrap 4.4
+- The footer was copied from code institute: https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/b51f7b8b815c4bcd9979d2281b6d97a9/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40b51f7b8b815c4bcd9979d2281b6d97a9
+
+- The code for the layout of the images was created with Bootstrap 4.4 https://getbootstrap.com/docs/4.0/layout/grid/#equal-width-multi-row
+
+- The Tables on all pages on the site were created with Bootstrap 4.4 and inspired by Code Institute: https://getbootstrap.com/docs/4.0/layout/grid/#equal-width-multi-row      https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/f99dac3afcfe4b2caf8d576273aea3e6/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40f99dac3afcfe4b2caf8d576273aea3e6.   
+
+- The Contact form on the About us page was designed with help from w3schools:   https://www.w3schools.com/howto/howto_css_contact_form.asp
+
+- The contact form button was created with Bootstrap 4.4:  https://getbootstrap.com/docs/4.4/components/buttons/
+
+- The colours used on the website were chosen from Coolors:  https://coolors.co/555b6e-89b0ae-bee3db-faf9f9-ffd6ba. 
+
+- The wireframes were created with Paint 3D and Adobe XD
+
+- The hover animation on the navigation bar was created with Github Hover.css:  https://ianlunn.github.io/Hover/
 
 
 Media:
 All images were taken from my personal photo collection
 
 Acknowledgements:
-To my girlfriend Cecille and various friends for helping me test the website.
+To my girlfriend Fanny and various friends for helping me test the website.
 To my mentor Reuben Ferrante for patiently helping me through the process and providing advice and guidance.
 The inspiration for the site was taken from the mini project of Code Institute
 
