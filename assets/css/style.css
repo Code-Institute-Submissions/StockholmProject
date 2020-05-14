@@ -55,15 +55,18 @@ color: whitesmoke;
     color: #FFD6BA;
 }
 
-
-
-h1,
-h2,
-h3,
-h4, {
-    margin:100;
+header {
+    background-color: #555B6E;
 }
 
+h1 {
+    background-color: #555B6E;
+    color: #FFD6BA;
+}
+h2,
+h3,
+h4, 
+    
 .uppercase {
     text-transform: uppercase;
 }
@@ -336,51 +339,57 @@ h4 {
     border: solid;
     color: #FFD6BA;
     size: 50%;
+    margin: 0;
 }
 
-.container-sm {
+.container-xl1 {
     background-image: url("../images/culture.gif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 180px;
-    color: white;
+    color:rgba(222, 240, 234, 0.959);
     font-weight: bold;
-    font-size: 150%;
-    text-align: right;
+    font-size: 190%;
+    text-align: center;
+    margin: 0;
+    text-emphasis: 
 }
-.container-md {
+.container-xl2 {
     background-image: url("../images/roof.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 180px;
-    color: white;
+    color:rgba(222, 240, 234, 0.959);
     font-weight: bold;
-    font-size: 150%;
-    text-align: right;
+     font-size: 190%;
+    text-align: center;
+    margin: 0;
 }
-.container-lg {
+.container-xl3 {
     background-image: url("../images/stad.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 180px;
-    color: white;
+    color:rgba(222, 240, 234, 0.959);
     font-weight: bold;
-    font-size: 150%;
-    text-align: right;
+     font-size: 190%;
+    text-align: center;
+    margin: 0;
 }
-.container-xl {
+.container-xl4 {
     background-image: url("../images/city.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 180px;
-    color: white;
+    color:rgba(222, 240, 234, 0.959);
     font-weight: bold;
-    font-size: 150%;
-    text-align: right;
+    font-size: 190%;
+    text-align: center;
+    margin: 0;
 }
 
 /* Images */
@@ -401,6 +410,9 @@ h4 {
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
+}
+.image-details {
+    background-color: #555B6E;
 }
 
   .g1 {
